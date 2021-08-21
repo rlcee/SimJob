@@ -1,0 +1,6 @@
+[submodule "Production"]
+	path = Production
+	url = https://github.com/mu2e/Production
+[submodule "Offline"]
+	path = Offline
+	url = https://github.com/mu2e/Offline
